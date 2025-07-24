@@ -240,7 +240,6 @@ body { font-family: Arial, sans-serif; background: #111; color: #fff; }
     font-size: 18px;
   }
   .modal-content {
-    width: 95%;
     padding: 15px;
   }
   .modal-body img {
