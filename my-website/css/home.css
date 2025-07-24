@@ -226,7 +226,7 @@ body { font-family: Arial, sans-serif; background: #111; color: #fff; }
     width: 120px;
   }
   .search-modal input {
-    margin-top: 50px;
+    margin-top: 10px;
     width: 90%;
   }
 }
